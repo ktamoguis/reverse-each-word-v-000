@@ -6,3 +6,5 @@ def reverse_each_word(string)
   end
   newstring.strip
 end
+
+def reverse_each_word(string)
